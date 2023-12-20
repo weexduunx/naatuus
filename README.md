@@ -44,6 +44,6 @@ After clone, enter to the project folder and install all it's dependencies:
 ```bash
 cd naatuus && npm install
 ```
-
+ 
 # :runner: Getting Started
 You can type ```npm start``` Dossier de projet à l'intérieur **Go**Naatuus 🎉
