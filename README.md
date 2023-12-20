@@ -40,10 +40,10 @@ Ou si vous avez votre clé SSH enregistrée dans votre compte GitHub, tapez le s
 git clone git@github.com:weexduunx/naatuus.git
 ```
 
-After clone, enter to the project folder and install all it's dependencies:
+Après clone, entrez dans le dossier du projet et installez toutes ses dépendances:
 ```bash
 cd naatuus && npm install
 ```
  
 # :runner: Getting Started
-You can type ```npm start``` Dossier de projet à l'intérieur **Go**Naatuus 🎉
+Vous pouvez taper```npm start``` Dossier de projet à l'intérieur **Go**Naatuus 🎉
