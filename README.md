@@ -4,13 +4,13 @@
 # **Go**Naatuus
 
 
-> Handsome app that help you to manage your bank transactions
+> Belle application qui vous aide à gérer vos transactions bancaires
 
 <p align="center">
   <img width="300"src="./src/assets/demo.gif?raw=true" />
 </p>
 
-# :page_facing_up: Table of Contents
+# :page_facing_up: Table des matières
 
 * [Features](#rocket-features)
 * [Installation](#outbox_tray-installation)
@@ -18,32 +18,32 @@
 
 # :rocket: Features
 
-💸 Now you can see how much you earn and spend during the month
+💸 Maintenant, vous pouvez voir combien vous gagnez et dépensez pendant le mois
 
-✋🏽 The app warns you if you are able to do next spend
+✋🏽 L'application vous avertit si vous êtes en mesure de faire les prochaines dépenses
  
-😍 Easily identify your transactions with beautiful icons
+😍 Identifiez facilement vos transactions avec de belles icônes
  
-💡 Create your own transaction category. The app creates the icon for you
+💡 Créez votre propre catégorie de transaction. L'application crée l'icône pour vous
 
 # :outbox_tray: Installation
-> This app was made with Expo. So you'll need to get <a href="https://docs.expo.io/workflow/expo-cli/" target="_blank">expo-cli</a> before start.
+> Cette application a été réalisée avec Expo. <a href="https://docs.expo.io/workflow/expo-cli/" target="_blank">expo-cli</a> Avant de commencer.
 
-💻 Open your terminal
+💻 Ouvrez votre terminal
 
-Type command below to clone this repo via HTTPS:
+Tapez la commande ci-dessous pour cloner ce repo via HTTPS:
 ```bash
-git clone https://github.com/gpaiva00/gofinances-mobile.git
+git clone https://github.com/weexduunx/naatuus.git
 ```
-Or if you have you SSH key registered in your Github account, type following to clone via SSH:
+Ou si vous avez votre clé SSH enregistrée dans votre compte GitHub, tapez le suivi à clone via SSH:
 ```bash
-git clone git@github.com:gpaiva00/gofinances-mobile.gitgit@github.com:gpaiva00/gofinances-mobile.git
+git clone git@github.com:weexduunx/naatuus.git
 ```
 
 After clone, enter to the project folder and install all it's dependencies:
 ```bash
-cd gofinances-mobile && yarn install
+cd naatuus && npm install
 ```
 
 # :runner: Getting Started
-You can type ```yarn start``` inside project folder to run **Go**Finances 🎉
+You can type ```npm start``` Dossier de projet à l'intérieur **Go**Naatuus 🎉
