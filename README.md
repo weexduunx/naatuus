@@ -1,11 +1,8 @@
 <!-- <p align="center">
   <img src="./src/assets/logo.svg" style="margin: 16px 80px"/>
 </p> -->
-# **Go**Finances
+# **Go**Naatuus
 
-[![Author](https://img.shields.io/badge/author-GabrielPaiva-7159c1?style=flat-square)](https://github.com/gpaiva00)
-[![Languages](https://img.shields.io/github/languages/count/gpaiva00/gofinances-mobile?color=7159c1&style=flat-square)](#)
-[![Contributors](https://img.shields.io/github/contributors/gpaiva00/gofinances-mobile?color=7159c1&style=flat-square)](https://github.com/gpaiva00/gofinances-mobile/graphs/contributors)
 
 > Handsome app that help you to manage your bank transactions
 
