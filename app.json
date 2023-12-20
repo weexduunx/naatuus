@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "GoFinances",
+    "slug": "gofinances",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "2.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.go.finances",
+      "versionCode": 3,
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyCgyboyO0NI3L-XzoyXj-BonxeCcfEyrjw",
+          "certificateHash": "F5F1EF701C4571B9513D340BBD9FD84724F6961D"
+        }
+      }
+    }
+  }
+}
